@@ -8,5 +8,5 @@ app.use(express.static('./public'));
 //starting the controllers
 controller(app);
 
-//listen at port 3000
-app.listen(3000);
+//listen at port 8080
+app.listen(8080);
